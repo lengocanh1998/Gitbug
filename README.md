@@ -1,0 +1,2 @@
+# Gitbug
+tệp code 
